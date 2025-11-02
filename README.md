@@ -1,16 +1,32 @@
-# codeandcocktails
+# Code & Cocktails
 
-A new Flutter project.
+A Flutter-based ticket verification and management application for events.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- QR Code Scanner for ticket verification
+- Real-time ticket status checking
+- Analytics and statistics dashboard
+- History of verified tickets
+- User management and search functionality
 
-A few resources to get you started if this is your first Flutter project:
+## Privacy Policy
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Code & Cocktails app uses the following permissions:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Camera Permission
+- **Purpose**: To scan QR codes on tickets for verification
+- **Data Collection**: No data is stored from the camera. Only the QR code information is processed for ticket verification.
+- **Data Storage**: Camera images are not stored, saved, or transmitted to any server.
+
+### Network Permission
+- **Purpose**: To communicate with the ticket verification server
+- **Data Collection**: Ticket information is sent to the server for verification purposes only.
+
+### Phone State Permission
+- **Purpose**: For device identification and security
+- **Data Collection**: Only used for device identification purposes
+
+**Data Privacy**: We respect your privacy. No personal information is collected without your consent, and all ticket verification data is handled securely.
+
+For questions about privacy, please contact: [Your Contact Email]
